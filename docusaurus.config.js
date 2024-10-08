@@ -11,6 +11,7 @@ const config = {
   // GitHub Pages Configuration
   organizationName: 'Skrillx13',
   projectName: 'Pure-Fabric',
+  deploymentBranch: 'gh-pages',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
