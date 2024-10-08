@@ -5,7 +5,7 @@ const config = {
   title: 'Pure Fabric',
   tagline: "Pure Fabric API's for easier Minecraft Modding Projects.",
   favicon: 'img/favicon.ico',
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://skrillx13.github.io',
   baseUrl: '/Pure-Fabric/',
 
   // GitHub Pages Configuration
